@@ -5,7 +5,7 @@ Checks for invalid pitch types, video duration, and likely missing videos. Scans
 ## Install
 
 Download check.py or git clone. \
-`git clone`
+`git clone https://github.com/matt-rog/synergy-data-check.git`
 
 Install externel dep. for parsing mp4 data \
 `pip install mutagen`
